@@ -1,0 +1,284 @@
+category,stock_code,name,sale_price,original_price,savings,dietary_category,dietary_confidence,key_ingredient
+Bakery,49622,Golden Crumpet Rounds Pk 6,2.4,4.8,2.4,Grains (Wholegrain),0.39589232206344604,crumpet
+Bakery,846809,Mr Kipling Cake Slice Varieties Pk 6,3.0,6.0,3.0,Grains (Wholegrain),0.6911925673484802,cake
+Bakery,157944,Woolworths Petite Vol Au Vents Pk 12,4.5,4.5,0.0,Discretionary,0.26907163858413696,pastry
+Bakery,760001,Woolworths Brandy Snaps Pk 8,6.5,6.5,0.0,Discretionary,0.42945894598960876,snap
+Bakery,6040676,Mr Whisk Vanilla Meringues 130g,6.5,6.5,0.0,Dairy (Reduced Fat),0.6538989543914795,meringue
+Bakery,91895,Woolworths Large Pavlova Base,8.0,8.0,0.0,Dairy (Reduced Fat),0.33595308661460876,pavlova
+Bakery,6020741,Woolworths Build Your Own Gingerbread House 890g,15.0,15.0,0.0,Discretionary,0.35354384779930115,gingerbread
+Bakery,634918,Woolworths Wrap Varieties 360g Pk 8,2.2,4.6,2.4,Grains (Wholegrain),0.5754260420799255,wrap
+Bakery,97237,Woolworths All Butter Croissants Pk 3-4,2.6,5.550000000000001,2.95,Dairy (Reduced Fat),0.6269016861915588,croissant
+Bakery,726067,Toscano Brioche Burger Buns 200g Pk 4,4.9,7.0,2.1,Grains (Wholegrain),0.6076410412788391,brioche
+Bakery,6041499,Helga’s Plus Protein or Lower Calorie Wrap Varieties Pk 6,3.25,6.5,3.25,Dairy (Reduced Fat),0.5809931755065918,wrap
+Bakery,6020138,Abe’s Bagels Varieties 360g Pk 4,4.0,5.5,1.5,Grains (Wholegrain),0.61355060338974,bagel
+Bakery,145667,"Woolworths Anzac Biscuits, Choc Chip or Funfetti Cookies Pk 24#",6.0,6.5,0.5,Discretionary,0.6147837042808533,biscuit
+Bakery,33878,Bread Roll Varieties Pk 6# – Excludes Jumbo & Brioche Roll Varieties,3.0,3.0,0.0,Grains (Wholegrain),0.7329962849617004,bread roll
+Bakery,55656,Bread Loaf Varieties 650-700g#,3.0,3.0,0.0,Grains (Wholegrain),0.7731837630271912,bread
+Bakery,917155,Green's Gingerbread Cake Roll 300g,5.5,5.5,0.0,Discretionary,0.7015740275382996,gingerbread
+Bakery,310884,Walker's Fruit Mince Pies Pk 6,9.0,9.0,0.0,Dairy (Reduced Fat),0.6434863209724426,fruit
+Bakery,904886,Walker's Cranberry & Clementine Fruit Mince Pies Pk 4,6.5,6.5,0.0,Fruit,0.6758207082748413,fruit
+Bakery,904771,Walker's Gingerbread Mince Pies Pk 4,6.5,6.5,0.0,Discretionary,0.6075355410575867,mince pie
+Bakery,233875,Yummy Kitchen Fruit & Nut Grazing Slices 220g,9.0,9.0,0.0,Grains (Wholegrain),0.6974341869354248,fruit nut
+Bakery,291750,Walker's Mini Fruit Mince Pies Pk 9,9.0,9.0,0.0,Discretionary,0.6471657752990723,fruit mince pie
+Bakery,6178,Green's Australian Fruit Cake 700g,14.0,14.0,0.0,Fruit,0.6486660242080688,fruit
+Bakery,250635,Woolworths Black Forest Gateau 1.1 kg,28.0,30.0,2.0,Fruit,0.2841486632823944,cake
+Bakery,157108,Iced Finger Bun Varieties Pk 4*,3.0,3.5,0.5,Grains (Wholegrain),0.644186794757843,bun
+Bakery,6044340,Cookie Man Protein Cookie Varieties 100g,4.5,4.5,0.0,Discretionary,0.6575766801834106,cookie
+Bakery,208667,Golden Pikelets Pk 8,3.0,4.5,1.5,Grains (Wholegrain),0.41873615980148315,pikelet
+Bakery,177677,Mission Souvlaki Bread 320g,3.5,4.5,1.0,Grains (Wholegrain),0.621971607208252,bread
+Bakery,236288,Mighty Soft Raisin Toast 600g,4.4,7.4,3.0,Grains (Wholegrain),0.6619276404380798,raisin
+Bakery,603316,Tip Top Thins Varieties 200-240g Pk 6,3.0,6.9,3.9,Grains (Wholegrain),0.4917638897895813,bread
+Bakery,66921,Butter Croissant Pk 10*,8.5,18.0,9.5,Dairy (Reduced Fat),0.7462255358695984,croissant
+Baking,205222,Woolworths Free Range Eggs 700g Pk 12,6.5,13.1,6.6,Lean Meat & Alternatives,0.513886034488678,egg
+Baking,757795,Green’s Traditional Baking Mixes 340-470g,3.0,6.8,3.8,Grains (Wholegrain),0.5855817794799805,baking mix
+Biscuits & Snacks,479848,Pringles Potato Chips 53g,1.35,2.7,1.35,Discretionary,0.7709391117095947,potato
+Biscuits & Snacks,386873,Pop Box Microwave Popcorn 100g,2.0,4.0,2.0,Discretionary,0.7203643321990967,popcorn
+Biscuits & Snacks,319951,Thins Potato Chips 150-175g,2.5,5.0,2.5,Discretionary,0.8137305378913879,potato
+Biscuits & Snacks,104528,"Vege Chips, Nibbles or Straws 75g – From the Health Food Aisle",2.95,5.9,2.95,Discretionary,0.5694936513900757,vegetable
+Biscuits & Snacks,536102,Fibre One Bar 100-120g Pk 4-5,3.45,6.9,3.45,Discretionary,0.628964364528656,bar
+Biscuits & Snacks,519539,Red Rock Deli Crostini 115g,3.75,5.0,1.25,Discretionary,0.64546799659729,crostini
+Biscuits & Snacks,661766,Olina’s Bakehouse Artisan Cracker Biscuits 90-100g,2.5,5.0,2.5,Discretionary,0.7344784140586853,cracker
+Biscuits & Snacks,6047509,Table of Plenty Mini Rice Cakes 84-102g Pk 6 – From the Health Food Aisle,3.5,7.0,3.5,Grains (Wholegrain),0.6207742691040039,rice cake
+Biscuits & Snacks,172660,Woolworths Cashews Roasted & Salted 750g Pack,14.0,18.0,4.0,Grains (Wholegrain),0.6606809496879578,cashew
+Biscuits & Snacks,340958,McVitie’s Go Ahead Crispy Slices 174g Pk 4,3.0,5.0,2.0,Grains (Wholegrain),0.7319676876068115,wheat
+Biscuits & Snacks,260691,McVitie’s Chocolate Hobnobs 262g,3.3,5.5,2.2,Discretionary,0.8425936102867126,chocolate hobnob
+Biscuits & Snacks,247119,Macy & Tailor Pretzels 200g,2.15,2.15,0.0,Discretionary,0.7246890664100647,pretzel
+Biscuits & Snacks,586679,Twisties Party Bag 270g,4.0,4.0,0.0,Discretionary,0.6836446523666382,corn
+Biscuits & Snacks,915586,Mug Hanger Biscuits Pk 16,6.0,6.0,0.0,Discretionary,0.7145293354988098,biscuit
+Biscuits & Snacks,310884,Walker's Fruit Mince Pies Pk 6,9.0,9.0,0.0,Discretionary,0.758090615272522,fruit mince pie
+Biscuits & Snacks,904886,Walker's Cranberry & Clementine Fruit Mince Pies Pk 4,6.5,6.5,0.0,Discretionary,0.733355700969696,fruit mince
+Biscuits & Snacks,904771,Walker's Gingerbread Mince Pies Pk 4,6.5,6.5,0.0,Discretionary,0.7543454766273499,mince pie
+Biscuits & Snacks,291750,Walker's Mini Fruit Mince Pies Pk 9,9.0,9.0,0.0,Discretionary,0.7647775411605835,fruit mince
+Biscuits & Snacks,6044340,Cookie Man Protein Cookie Varieties 100g,4.5,4.5,0.0,Discretionary,0.7558900713920593,cookie
+Breakfast Foods,49622,Golden Crumpet Rounds Pk 6,2.4,4.8,2.4,Grains (Wholegrain),0.5613964200019836,crumpet
+Breakfast Foods,353166,Kellogg’s LCMs Bars 100-110g Pk 5,2.25,4.5,2.25,Discretionary,0.5499271154403687,rice bubble
+Breakfast Foods,345836,Kellogg’s Nutri-Grain Bars 110g Pk 5,2.25,4.5,2.25,Grains (Wholegrain),0.5782690048217773,grain
+Breakfast Foods,724087,Kellogg’s K-Time Twists 185g Pk 5,2.75,5.5,2.75,Grains (Wholegrain),0.6003740429878235,crumpet
+Breakfast Foods,780739,Jordans Clusters or Granola 500-750g,7.0,16.0,9.0,Grains (Wholegrain),0.5581745505332947,granola
+Breakfast Foods,6020138,Abe’s Bagels Varieties 360g Pk 4,4.0,5.5,1.5,Grains (Wholegrain),0.6775128245353699,bagel
+Breakfast Foods,150504,Hubbards Muesli or Granola 450g,5.1,8.5,3.4,Discretionary,0.6009213328361511,oat
+Breakfast Foods,200413,Kellogg’s Coco Pops Chex 500g or Sultana Bran 700g,5.4,9.5,4.1,Grains (Wholegrain),0.578921914100647,chex
+Breakfast Foods,202140,Kellogg’s Nutri Grain 470g or Special K 500g,5.4,9.0,3.6,Grains (Wholegrain),0.6079022288322449,grain
+Breakfast Foods,208667,Golden Pikelets Pk 8,3.0,4.5,1.5,Lean Meat & Alternatives,0.5961944460868835,pikelet
+Canned & Packet food,259537,Ho Mai Spring Roll or Entertainer Pack 1 kg Pk 56-60 – From the Freezer,8.0,10.0,2.0,Lean Meat & Alternatives,0.5404062867164612,spring roll
+Canned & Packet food,6043920,"NEW Tegel Take Outs Kaarage, Korean Style or Buttermilk Chicken Tenders 360-400g – From the Freezer",10.0,22.0,12.0,Lean Meat & Alternatives,0.6148169636726379,chicken
+Canned & Packet food,6048141,NEW Ingham’s Chkn Snax 600g – From the Freezer,11.5,26.0,14.5,Lean Meat & Alternatives,0.5179436802864075,chicken
+Canned & Packet food,62144,Ingham’s Turkey Breast Roast with Spiced Apple & Cranberry Stuffing 1 kg – From the Freezer,20.0,20.0,0.0,Lean Meat & Alternatives,0.7289313077926636,turkey
+Canned & Packet food,6022677,Casa Della Filled Pasta Varieties 630g – From the Fridge,5.25,10.5,5.25,Grains (Wholegrain),0.5935823917388916,pasta
+Canned & Packet food,609710,Luv a Duck Peking Duck Pancake Kit 560g,13.0,18.0,5.0,Lean Meat & Alternatives,0.6077584624290466,duck
+Canned & Packet food,162544,Hong Kong Kitchen Dumplings or Buns 240-480g,4.25,8.5,4.25,Lean Meat & Alternatives,0.5558443665504456,dumpling
+Canned & Packet food,112492,McCain Pizza Slices 600g,7.7,9.8,2.1,Grains (Wholegrain),0.6846449971199036,pizza
+Canned & Packet food,369501,On The Menu Frozen Meals 320g,5.8,7.3,1.5,Lean Meat & Alternatives,0.6443653702735901,meal
+Canned & Packet food,71227,Tegel Take Outs Louisiana Style Chicken Tenders or Burgers 500-600g,9.5,14.0,4.5,Lean Meat & Alternatives,0.697048544883728,chicken
+Canned & Packet food,227138,Ingham’s Original or Tempura Chicken Nuggets 1 kg,10.5,13.0,2.5,Lean Meat & Alternatives,0.7091346979141235,chicken
+Canned & Packet food,311079,McCain Healthy Choice Frozen Meals 280-350g,4.5,9.5,5.0,Lean Meat & Alternatives,0.598423182964325,meal
+Canned & Packet food,251433,Old El Paso Premium Kits 295-505g,4.5,9.5,5.0,Grains (Wholegrain),0.48710957169532776,"the product description appears to be for a mexican food kit, but there's no specific main ingredient mentione"
+Canned & Packet food,878479,Safcol Tuna Pouch 95g,1.35,2.7,1.35,Lean Meat & Alternatives,0.6540673971176147,tuna
+Canned & Packet food,6035128,ARMC Jasmine Rice 5 kg,15.0,30.0,15.0,Grains (Wholegrain),0.6423181891441345,rice
+Canned & Packet food,59407,Aeroplane Flavoured Jelly 85g,3.99,4.5,0.51,Dairy (Reduced Fat),0.6153907775878906,jelly
+Canned & Packet food,450687,Leggo’s Pasta Sauce 490-500g,2.75,4.6,1.85,Grains (Wholegrain),0.719078540802002,pasta
+Canned & Packet food,785977,Nongshim Noodles 460-600g Pk 4-5,4.8,8.0,3.2,Grains (Wholegrain),0.6520355343818665,noodle
+Canned & Packet food,270308,Primo Salami Sticks 90g Pk 5,3.9,6.5,2.6,Grains (Wholegrain),0.5969356298446655,salami
+Canned & Packet food,31429,Old El Paso Standard Kits 290-520g,4.0,8.5,4.5,Lean Meat & Alternatives,0.46379056572914124,tortilla
+Canned & Packet food,6178,Green's Australian Fruit Cake 700g,14.0,14.0,0.0,Lean Meat & Alternatives,0.6603479385375977,fruit
+Canned & Packet food,339118,NEW Ingham's Chicken Breast Nuggets Tempura 400g,4.5,10.0,5.5,Lean Meat & Alternatives,0.7210228443145752,chicken
+Condiments,323081,Yumi’s Dips 200g – From the Fridge,3.5,4.5,1.0,Dairy (Reduced Fat),0.4487169682979584,dip
+Condiments,465039,Always Fresh Sicilian Olives Pitted 230g,3.3,4.8,1.5,Vegetables & Legumes,0.6054171919822693,olive
+Condiments,230514,Woolworths Apple Sauce 370g,2.0,2.0,0.0,Fruit,0.5593405961990356,apple
+Condiments,924711,Praise Whole Egg Mayonnaise or Garlic Aioli 470-500g,6.0,8.0,2.0,Vegetables & Legumes,0.6648055911064148,egg
+Confectionery,814558,"Cadbury Dairy Milk, Bubbly or Marvellous Creations Blocks 150-190g",4.0,8.0,4.0,Dairy (Reduced Fat),0.6009388566017151,milk
+Confectionery,160905,Mars Medium Bars 44-50g,1.0,2.5,1.5,Discretionary,0.5249772071838379,chocolate
+Confectionery,211973,"The Natural Confectionery Co. Medium Bags 130-230g, Sour Patch Kids 190g or Pascall Sugar Bags 160-300g",2.5,5.0,2.5,Dairy (Reduced Fat),0.6231306195259094,candy
+Confectionery,828969,Pascall Chocolate Bites 150-185g – Excludes Cadbury Pascall Clinkers 160g,3.5,7.0,3.5,Discretionary,0.5796741247177124,chocolate
+Confectionery,846809,Mr Kipling Cake Slice Varieties Pk 6,3.0,6.0,3.0,Discretionary,0.7105479836463928,cake
+Confectionery,6031052,Cadbury Roses 380g,10.0,20.0,10.0,Discretionary,0.5593602061271667,chocolate
+Confectionery,6031595,Cadbury Chocolate Tin 430g,15.0,30.0,15.0,Discretionary,0.7157619595527649,chocolate
+Confectionery,226335,Lindt Chocolate Teddy 100g,8.0,10.0,2.0,Discretionary,0.7226096391677856,chocolate
+Confectionery,788702,Raffaello Ballotin 230g,9.0,18.0,9.0,Discretionary,0.43411481380462646,coconut
+Confectionery,468984,Toblerone 340-360g,10.0,20.0,10.0,Discretionary,0.5698750019073486,chocolate
+Confectionery,132864,Lindt Praline Master Collection 184g,14.0,28.0,14.0,Discretionary,0.5234177708625793,praline
+Confectionery,114683,Lindt Lindor Cornet 327-333g,17.0,34.0,17.0,Discretionary,0.362415611743927,chocolate
+Confectionery,909796,Lindt Lindor Champagne Gala Box 396g,22.0,44.0,22.0,Discretionary,0.5048773884773254,chocolate
+Confectionery,6031592,Cadbury Favourites 680-700g,15.0,30.0,15.0,Discretionary,0.4473719596862793,chocolate
+Confectionery,908260,Cadbury Dairy Milk or Toblerone Minis 45-70g,3.5,7.0,3.5,Dairy (Reduced Fat),0.7165645360946655,chocolate
+Confectionery,764679,Cadbury Christmas Share Packs 144-175g,4.0,7.0,3.0,Discretionary,0.5962031483650208,chocolate
+Confectionery,427577,Godiva Christmas Masterpieces 50g,4.5,9.0,4.5,Discretionary,0.5637293457984924,chocolate
+Confectionery,316321,Mars Christmas M&M’s 165g,4.9,7.0,2.1,Discretionary,0.5003739595413208,chocolate
+Confectionery,909510,Darrell Lea Allsorts Gift Box 600g,8.0,16.0,8.0,Discretionary,0.47005370259284973,allsorts
+Confectionery,6034342,The Natural Confectionery Co. Christmas Party Mix 720g,8.0,11.0,3.0,Discretionary,0.4540318548679352,"the main ingredients in this product would be sugar or gelatin, but since those are not the characteristic"
+Confectionery,740377,Lindt Santa Boot 90g,12.5,18.0,5.5,Discretionary,0.5247275233268738,chocolate
+Confectionery,252005,Cadbury Chocolate Bites 120-150g,3.5,7.0,3.5,Discretionary,0.7298141717910767,chocolate
+"Cooking, Seasoning & Gravy",6049885,Maggi Gravy 1 kg,12.5,12.5,0.0,Vegetables & Legumes,0.49172094464302063,gravy
+"Cooking, Seasoning & Gravy",6022664,Casa Della Sauce 400g – From the Fridge,3.5,7.0,3.5,Lean Meat & Alternatives,0.5728423595428467,sauce
+"Cooking, Seasoning & Gravy",502951,Bertolli Olive Oil 750ml,15.0,23.0,8.0,Vegetables & Legumes,0.5389125347137451,olive
+Dairy,686461,Farmers Union Greek Yogurt Pouches 130g – From the Fridge,1.25,2.5,1.25,Dairy (Reduced Fat),0.6201714277267456,yogurt
+Dairy,6022311,Oak Chocolate Long Life Milk 1 Litre,2.0,4.0,2.0,Dairy (Reduced Fat),0.724016547203064,milk
+Dairy,87467,Thomas Dux Brie or Camembert 200g – From the Deli,5.0,10.5,5.5,Dairy (Reduced Fat),0.5997296571731567,cheese
+Dairy,244191,Mersey Valley Cheddar Cheese Varieties 235g – From the Deli,4.95,9.9,4.95,Dairy (Reduced Fat),0.690841794013977,cheddar cheese
+Dairy,48019,Flora Spread 500g – From the Fridge,3.9,5.25,1.35,Dairy (Reduced Fat),0.5090728998184204,spread
+Dairy,205222,Woolworths Free Range Eggs 700g Pk 12,6.5,13.1,6.6,Dairy (Reduced Fat),0.5446280837059021,egg
+Dairy,756108,Riverina Haloumi 180g – From the Fridge,5.8,12.399999999999999,6.6,Dairy (Reduced Fat),0.5292457938194275,haloumi
+Dairy,6003874,Activia Danone Probiotic Yoghurt No Added Sugar 900g – From the Fridge,7.0,14.5,7.5,Dairy (Reduced Fat),0.7445340156555176,yoghurt
+Dairy,6003466,Farmers Union Greek Yogurt Pots 150g,1.25,2.5,1.25,Dairy (Reduced Fat),0.652486264705658,yogurt
+Dairy,663177,Farmers Union Greek Yogurt Pouches 130g,1.25,2.5,1.25,Dairy (Reduced Fat),0.6421850323677063,yogurt
+Dairy,162588,Lemnos Haloumi Varieties 180g,5.8,7.3,1.5,Dairy (Reduced Fat),0.5332717299461365,haloumi
+Dairy,769558,Bega Cheese Slices 500g,10.0,11.0,1.0,Dairy (Reduced Fat),0.7669102549552917,cheese
+Dairy,6047601,NEW Inside Out Pokemon Flavoured Milk 250ml,2.6,5.5,2.9,Dairy (Reduced Fat),0.6492918729782104,milk
+Dairy,503952,Pauls Kids Yoghurt Pouch 70g – From the Fridge,1.0,1.3,0.3,Dairy (Reduced Fat),0.6424261331558228,yoghurt
+Dairy,6039041,Vaalia Boost Yoghurt Pouches 150g – From the Fridge,1.95,2.8,0.85,Dairy (Reduced Fat),0.6480281949043274,yoghurt
+Dairy,293933,Dare Iced Coffee 750ml – From the Fridge,4.35,5.5,1.15,Dairy (Reduced Fat),0.6402340531349182,coffee
+Dairy,331963,Jalna Greek Style Yoghurt 1 kg – From the Fridge,7.0,8.8,1.8,Dairy (Reduced Fat),0.6135864853858948,yoghurt
+Dairy,72546,Philadelphia Original Cream Cheese Twin Block 500g – From the Fridge,9.0,19.0,10.0,Dairy (Reduced Fat),0.6779724359512329,cream cheese
+Dairy,193763,Devondale Block or Grated Cheese 600-625g – From the Fridge,10.8,22.8,12.0,Dairy (Reduced Fat),0.7249308824539185,cheese
+Deli & Chilled,686461,Farmers Union Greek Yogurt Pouches 130g – From the Fridge,1.25,2.5,1.25,Dairy (Reduced Fat),0.6224384903907776,yogurt
+Deli & Chilled,87467,Thomas Dux Brie or Camembert 200g – From the Deli,5.0,10.5,5.5,Dairy (Reduced Fat),0.5607348680496216,cheese
+Deli & Chilled,323081,Yumi’s Dips 200g – From the Fridge,3.5,4.5,1.0,Dairy (Reduced Fat),0.5221587419509888,dip
+Deli & Chilled,244191,Mersey Valley Cheddar Cheese Varieties 235g – From the Deli,4.95,9.9,4.95,Dairy (Reduced Fat),0.6680290102958679,cheddar cheese
+Deli & Chilled,713425,D’Orsogna Tasty Sticks Mild 400g – From the Deli,10.0,12.5,2.5,Lean Meat & Alternatives,0.6058347821235657,stick
+Deli & Chilled,25260,Primo Danish Salami – Sliced or Shaved – From the Deli,32.5,38.0,5.5,Lean Meat & Alternatives,0.5634576082229614,salami
+Deli & Chilled,48019,Flora Spread 500g – From the Fridge,3.9,5.25,1.35,Lean Meat & Alternatives,0.5105127692222595,spread
+Deli & Chilled,71841,D’Orsogna Shortcut Bacon – From the Deli,15.0,21.0,6.0,Lean Meat & Alternatives,0.5951241850852966,bacon
+Deli & Chilled,756108,Riverina Haloumi 180g – From the Fridge,5.8,12.399999999999999,6.6,Dairy (Reduced Fat),0.5130615830421448,haloumi
+Deli & Chilled,48358,Woolworths Middle Bacon 1 kg – From the Fridge,11.5,23.2,11.7,Lean Meat & Alternatives,0.5555418133735657,bacon
+Deli & Chilled,6003874,Activia Danone Probiotic Yoghurt No Added Sugar 900g – From the Fridge,7.0,14.5,7.5,Dairy (Reduced Fat),0.7530062198638916,yoghurt
+Deli & Chilled,544761,Primo Sliced Meats 80-100g – From the Fridge,3.0,3.95,0.95,Lean Meat & Alternatives,0.6286500096321106,meat
+Deli & Chilled,352931,Bertocchi Premium Boneless Leg Ham – Sliced or Shaved – From the Deli,29.0,35.0,6.0,Lean Meat & Alternatives,0.6449396014213562,ham
+Deli & Chilled,6003466,Farmers Union Greek Yogurt Pots 150g,1.25,2.5,1.25,Dairy (Reduced Fat),0.6551578640937805,yogurt
+Deli & Chilled,663177,Farmers Union Greek Yogurt Pouches 130g,1.25,2.5,1.25,Dairy (Reduced Fat),0.6493973135948181,yogurt
+Deli & Chilled,162588,Lemnos Haloumi Varieties 180g,5.8,7.3,1.5,Dairy (Reduced Fat),0.4991026520729065,haloumi
+Deli & Chilled,769558,Bega Cheese Slices 500g,10.0,11.0,1.0,Dairy (Reduced Fat),0.6760327219963074,cheese
+Deli & Chilled,503952,Pauls Kids Yoghurt Pouch 70g – From the Fridge,1.0,1.3,0.3,Dairy (Reduced Fat),0.6148544549942017,yoghurt
+Deli & Chilled,6039041,Vaalia Boost Yoghurt Pouches 150g – From the Fridge,1.95,2.8,0.85,Dairy (Reduced Fat),0.618205726146698,yoghurt
+Deli & Chilled,331963,Jalna Greek Style Yoghurt 1 kg – From the Fridge,7.0,8.8,1.8,Dairy (Reduced Fat),0.5951095223426819,yoghurt
+Deli & Chilled,193763,Devondale Block or Grated Cheese 600-625g – From the Fridge,10.8,22.8,12.0,Dairy (Reduced Fat),0.6802607774734497,cheese
+Desserts,690034,Woolworths Petite Pavlovas Pk 9,6.5,6.5,0.0,Discretionary,0.4151276648044586,pavlova
+Desserts,6040676,Mr Whisk Vanilla Meringues 130g,6.5,6.5,0.0,Dairy (Reduced Fat),0.6528382897377014,meringue
+Desserts,903021,Woolworths Baileys Flavoured Pavlovas Pk 4,8.5,8.5,0.0,Discretionary,0.5132891535758972,pavlova
+Drinks,32731,"Coca-Cola Classic, Zero Sugar or Diet Soft Drink Varieties 1.25 Litre",2.0,4.0,2.0,Dairy (Reduced Fat),0.6176782250404358,water
+Drinks,195108,Nescafé Coffee Sachets Pk 8-10,4.0,8.0,4.0,Discretionary,0.5469012260437012,coffee
+Drinks,6022311,Oak Chocolate Long Life Milk 1 Litre,2.0,4.0,2.0,Dairy (Reduced Fat),0.6780310273170471,milk
+Drinks,703393,"Schweppes Soft Drink, Soda Water or Mixer Varieties 1.1 Litre",1.5,3.0,1.5,Dairy (Reduced Fat),0.6111208200454712,water
+Drinks,361734,Monster Energy Drink 4 x 500ml,8.0,16.0,8.0,Discretionary,0.46093329787254333,drink
+Drinks,332730,Mount Franklin Lightly Sparkling Water 1.25 Litre,1.62,3.25,1.63,Dairy (Reduced Fat),0.45530590415000916,water
+Drinks,93039,Harris Beans or Ground Coffee 1 kg,30.0,62.0,32.0,Vegetables & Legumes,0.5812868475914001,bean
+Drinks,,Woolworths Breakfast Juice 2 Litre,2.7,5.550000000000001,2.85,Dairy (Reduced Fat),0.5614843964576721,juice
+Drinks,190516,Remedy Kombucha 330ml,2.5,4.3,1.8,Discretionary,0.4292241930961609,kombucha
+Drinks,6047601,NEW Inside Out Pokemon Flavoured Milk 250ml,2.6,5.5,2.9,Dairy (Reduced Fat),0.5846012830734253,milk
+Drinks,6047379,NEW Inside Out Pokemon Flavoured Milk 500ml,4.25,9.0,4.75,Dairy (Reduced Fat),0.5778740048408508,milk
+Drinks,6046049,Inside Out Pokemon Juice Pop Tops 250ml,2.0,2.9,0.9,Discretionary,0.5085830688476562,juice
+Drinks,6045945,Inside Out Pokemon Juice 1 Litre,4.5,5.5,1.0,Dairy (Reduced Fat),0.5202896595001221,juice
+Drinks,293933,Dare Iced Coffee 750ml – From the Fridge,4.35,5.5,1.15,Dairy (Reduced Fat),0.5507533550262451,coffee
+Drinks,637518,Nescafé Espresso Concentrate Liquid Coffee 500ml,5.5,11.0,5.5,Discretionary,0.5883263349533081,coffee
+Drinks,,Pureharvest Coco Quench Coconut Milk 1 Litre,1.9,3.8,1.9,Dairy (Reduced Fat),0.6868922114372253,coconut
+Drinks,6021265,Nestlé Milo Frothy Pk 8,4.3,8.6,4.3,Discretionary,0.5396836996078491,milo
+Drinks,72618,Twinings Tea Bags Pk 80-100,6.75,13.5,6.75,Discretionary,0.5397493839263916,tea
+Drinks,198687,Genki Forest Sparkling Water 6 x 330ml,6.6,11.0,4.4,Fruit,0.4401605725288391,water
+Drinks,192985,Nestlé Milo 1 kg,13.5,17.5,4.0,Discretionary,0.5132895708084106,malt
+Drinks,208575,Moccona Freeze Dried Coffee 400g,26.0,37.5,11.5,Dairy (Reduced Fat),0.6331542134284973,coffee
+Drinks,936138,Grinders Coffee Beans 1 kg,28.0,40.0,12.0,Vegetables & Legumes,0.6188866496086121,coffee bean
+Drinks,84552,"Coca-Cola Classic, Diet or Zero Sugar Soft Drink Varieties 30 x 375ml",30.0,50.0,20.0,Dairy (Reduced Fat),0.6363549828529358,"the product is a soft drink (carbonated beverage), not a food with a primary ingredient."
+Drinks,30450,Gatorade Sports Drink or G-Active Flavoured Water 600ml,2.5,4.2,1.7,Dairy (Reduced Fat),0.510941207408905,water
+Drinks,807892,Remedy Kombucha 4 x 250ml,5.7,9.5,3.8,Discretionary,0.4292241930961609,kombucha
+Drinks,971011,Oxyshred Energy Drink 4 x 355ml,9.6,16.0,6.4,Dairy (Reduced Fat),0.44356709718704224,"the provided product is an energy drink, which typically does not have a single main food ingredient that woul"
+Drinks,54291,"Pepsi Max, Mountain Dew, Solo Zero Sugar or Sunkist Zero Sugar Soft Drink Varieties 24 x 375ml",22.5,37.5,15.0,Fruit,0.6030333042144775,"the product is a soft drink (soda), but none of the mentioned drinks have a primary foo"
+Frozen Food,485660,Streets Magnum or Magnum Minis 360-428ml Pk 4-6,6.0,12.0,6.0,Dairy (Reduced Fat),0.3686985671520233,ice cream
+Frozen Food,136890,Woolworths Finer Selection Entertaining Varieties 225-250g – From the Freezer,12.0,14.0,2.0,Lean Meat & Alternatives,0.5087249279022217,unable to determine the main ingredient from the given product name. the name does not specify a specific foo
+Frozen Food,6029912,Mr Chen’s Frozen Snack Bites 200g – From the Freezer,4.5,7.5,3.0,Lean Meat & Alternatives,0.5999499559402466,"i apologize, but i cannot confidently extract the main food ingredient from this product name. the"
+Frozen Food,259537,Ho Mai Spring Roll or Entertainer Pack 1 kg Pk 56-60 – From the Freezer,8.0,10.0,2.0,Lean Meat & Alternatives,0.5056668519973755,spring roll
+Frozen Food,137651,Four’N Twenty Snack Pack 1.1 kg Pk 24 – From the Freezer,10.5,15.0,4.5,Lean Meat & Alternatives,0.5214899778366089,pie
+Frozen Food,48914,Marathon Dim Sims 1.5 kg – From the Freezer,10.5,12.0,1.5,Lean Meat & Alternatives,0.4438733458518982,dim sim
+Frozen Food,6043920,"NEW Tegel Take Outs Kaarage, Korean Style or Buttermilk Chicken Tenders 360-400g – From the Freezer",10.0,22.0,12.0,Lean Meat & Alternatives,0.5909206867218018,chicken
+Frozen Food,6048141,NEW Ingham’s Chkn Snax 600g – From the Freezer,11.5,26.0,14.5,Lean Meat & Alternatives,0.47570204734802246,chicken
+Frozen Food,767632,Ingham’s Turkey Easy Carve Buffe^ – From the Freezer,9.5,9.5,0.0,Lean Meat & Alternatives,0.5631767511367798,turkey
+Frozen Food,89785,Ingham’s Traditional Turkey Thigh Roast 1 kg – From the Freezer,13.0,13.0,0.0,Lean Meat & Alternatives,0.6507287621498108,turkey
+Frozen Food,62144,Ingham’s Turkey Breast Roast with Spiced Apple & Cranberry Stuffing 1 kg – From the Freezer,20.0,20.0,0.0,Lean Meat & Alternatives,0.7251325845718384,turkey
+Frozen Food,586517,Woolworths Frozen Mixed Berries 1 kg,11.0,23.0,12.0,Dairy (Reduced Fat),0.5621342658996582,berry
+Frozen Food,763541,Ocean Chef Atlantic Salmon Portions Skin On 1 kg – From the Seafood Freezer,24.0,29.5,5.5,Lean Meat & Alternatives,0.6820549964904785,salmon
+Frozen Food,947860,Streets Cornetto 750ml Pk 6,6.75,13.5,6.75,Discretionary,0.4365675449371338,cornetto
+Frozen Food,179265,Peters Twin Pole 544-590ml Pk 8,4.0,8.0,4.0,Lean Meat & Alternatives,0.3951486349105835,there is no food ingredient in this product name. this appears to be an ice cream or frozen treat
+Frozen Food,6042385,NEW Peters Original Lil’ Pops 500ml Pk 9,4.0,12.0,8.0,Dairy (Reduced Fat),0.4294189512729645,ice cream
+Frozen Food,178953,Weis Ice Cream Bars 264-280ml Pk 4-6,5.7,9.5,3.8,Dairy (Reduced Fat),0.6501519083976746,ice cream
+Frozen Food,162544,Hong Kong Kitchen Dumplings or Buns 240-480g,4.25,8.5,4.25,Lean Meat & Alternatives,0.5417754650115967,dumpling
+Frozen Food,112492,McCain Pizza Slices 600g,7.7,9.8,2.1,Lean Meat & Alternatives,0.6687724590301514,pizza
+Frozen Food,903788,"Birds Eye Golden Crunch Chips, Sidewinders or Lattice 750-900g",4.8,6.0,1.2,Lean Meat & Alternatives,0.5327475666999817,potato
+Frozen Food,369501,On The Menu Frozen Meals 320g,5.8,7.3,1.5,Lean Meat & Alternatives,0.6094232201576233,meal
+Frozen Food,86945,Four’N Twenty Traditional Pies 700g Pk 4,6.7,9.5,2.8,Lean Meat & Alternatives,0.6219305992126465,beef pie
+Frozen Food,178458,Sealord Hoki Fish Fillets 300g,7.0,9.0,2.0,Lean Meat & Alternatives,0.7309556007385254,hoki
+Frozen Food,71227,Tegel Take Outs Louisiana Style Chicken Tenders or Burgers 500-600g,9.5,14.0,4.5,Lean Meat & Alternatives,0.6848613023757935,chicken
+Frozen Food,227138,Ingham’s Original or Tempura Chicken Nuggets 1 kg,10.5,13.0,2.5,Lean Meat & Alternatives,0.7303106784820557,chicken
+Frozen Food,947981,Birds Eye Air Baked Fish 250-380g,10.0,22.5,12.5,Lean Meat & Alternatives,0.6860302090644836,fish
+Frozen Food,311079,McCain Healthy Choice Frozen Meals 280-350g,4.5,9.5,5.0,Lean Meat & Alternatives,0.551078200340271,meal
+Frozen Food,6043586,NEW Bulla FroYo 1 Litre,5.5,16.5,11.0,Dairy (Reduced Fat),0.4601394236087799,froyo
+Frozen Food,6046060,NEW Pistachio Papi Gelato 475ml,12.0,27.0,15.0,Dairy (Reduced Fat),0.5762150287628174,pistachio
+Frozen Food,971026,Bulla Murray Street 1 Litre,8.5,12.0,3.5,Lean Meat & Alternatives,0.49359866976737976,"there is no main food ingredient in this product name. ""bulla"" appears to be a"
+Frozen Food,6044528,Streets Cornetto Soft 560ml Pk 4,9.0,12.5,3.5,Dairy (Reduced Fat),0.5025829076766968,cornetto
+Frozen Food,339118,NEW Ingham's Chicken Breast Nuggets Tempura 400g,4.5,10.0,5.5,Lean Meat & Alternatives,0.7220759987831116,chicken
+Frozen Food,6050043,NEW Steggles Lime & Chilli Chicken Pops or Tex-Mex Chicken Fingers 400g,6.0,12.5,6.5,Lean Meat & Alternatives,0.7487833499908447,chicken
+Frozen Food,6044037,NEW Tegel Take Outs Louisiana Style Nuggets 750g,12.0,26.0,14.0,Lean Meat & Alternatives,0.44351890683174133,chicken nugget
+Frozen Food,6050404,NEW Steggles Tenderloins 600g,12.5,26.5,14.0,Lean Meat & Alternatives,0.5724755525588989,chicken
+Frozen Food,6021278,Woolworths Mud Cake Ice Cream Tub 1 Litre Woolworths Pavlova Ice Cream Tub 1 Litre Woolworths Lamington Ice Cream Tub 1 Litre,6.5,6.5,0.0,Dairy (Reduced Fat),0.6812435984611511,"cake
+
+explanation: the product contains multiple ice cream flavors referencing different desserts (mu"
+Fruit & Vegetables,85794,Australian Snackables™ Carrots 250g Pack,3.0,7.0,4.0,Vegetables & Legumes,0.7610963582992554,carrot
+Fruit & Vegetables,583615,Woolworths Roast Mixed Vegetables with Garlic & Rosemary 500g Pack,5.5,5.5,0.0,Vegetables & Legumes,0.7945571541786194,vegetable
+Fruit & Vegetables,143679,Australian Calypso® Mangoes,2.5,2.5,0.0,Fruit,0.7297056913375854,mango
+Fruit & Vegetables,120080,Hass Avocados – Product of Australia & New Zealand,1.0,1.0,0.0,Fruit,0.6127910614013672,avocado
+Fruit & Vegetables,105919,Australian Pink Lady Apples,4.9,4.9,0.0,Fruit,0.7498267889022827,apple
+Fruit & Vegetables,137534,Australian Sweet Pineapple,4.9,4.9,0.0,Fruit,0.7902945876121521,pineapple
+Fruit & Vegetables,662480,Australian Sweetest Batch® Premium Blueberries 200g Punnet,5.5,5.5,0.0,Fruit,0.7268856763839722,blueberry
+Fruit & Vegetables,187314,"Woolworths Broccolini® Bunch, Truss Tomatoes 500g Pack, Cos Lettuce Hearts Pk 2, Mixed Leaf Salad 200g Pack, Whole Fresh Beetroot 250g Pack, Spring Onion Bunch, Radish Bunch, Fresh Coriander Bunch or Fresh Basil Bunch",5.0,5.0,0.0,Vegetables & Legumes,0.8082638382911682,broccolini
+Fruit & Vegetables,144336,Australian Brown Onions 1 kg Pack,2.5,2.5,0.0,Vegetables & Legumes,0.7036884427070618,onion
+Fruit & Vegetables,143109,Australian Loose Cup Mushrooms,10.9,10.9,0.0,Vegetables & Legumes,0.6881381273269653,mushroom
+Fruit & Vegetables,727144,Australian Sweet Solanato® Tomatoes 200g Punnet,3.0,3.0,0.0,Fruit,0.7478837966918945,tomato
+Fruit & Vegetables,166144,Australian Cherry or Mini Roma Tomatoes 250g Pack,2.5,2.5,0.0,Fruit,0.7014741897583008,tomato
+Fruit & Vegetables,,Woolworths Ranch Salad Kit 400g Pack,5.0,5.0,0.0,Vegetables & Legumes,0.6777873635292053,salad
+Health & Wellbeing,230860,TENA Incontinence Pads Mini Plus Long Length Pk 16,4.85,7.0,2.15,Dairy (Reduced Fat),0.1951167732477188,there is no food ingredient in this product name. this appears to be an incontinence pad (
+Health & Wellbeing,783873,TENA Incontinence Pads Instadry Extra Long Length Pk 6,4.85,7.0,2.15,Dairy (Reduced Fat),0.15782524645328522,there is no food ingredient in this product name. the product is an incontinence pad (medical
+Health & Wellbeing,199089,Metamucil Smooth Fibre Powder 72 Doses 425g,20.9,29.9,9.0,Dairy (Reduced Fat),0.45728662610054016,fiber
+Health & Wellbeing,197107,Colgate Whitening Toothpaste Advanced Tartar Control 115g,3.25,6.5,3.25,Dairy (Reduced Fat),0.3185129463672638,"there is no food ingredient in this product. this is a toothpaste, which is a"
+Health & Wellbeing,227823,Bosisto’s Body Wash 1 Litre,8.0,16.0,8.0,Dairy (Reduced Fat),0.2957485616207123,"there is no specific food ingredient in this product name. this is a body wash, which is a"
+Health & Wellbeing,6022583,Little Swisse Sleep Gummies Pk 50~,14.75,29.5,14.75,Dairy (Reduced Fat),0.19958248734474182,gummy
+Health & Wellbeing,6022646,Little Swisse Iron + Vitamin C Gummies Pk 40~,14.75,29.5,14.75,Dairy (Reduced Fat),0.34131377935409546,gummy
+Health & Wellbeing,6022564,Little Swisse Vitamin C + Zinc Gummies Pk 40~,14.75,29.5,14.75,Dairy (Reduced Fat),0.32966455817222595,the main ingredient is: gummy
+Health & Wellbeing,129717,WaterWipes Baby & Newborn Sensitive Wipes Pk 9 x 60,29.5,59.0,29.5,Dairy (Reduced Fat),0.21744616329669952,"this is not a food product, it's a hygiene/baby product (baby wipes)."
+Health Foods,104528,"Vege Chips, Nibbles or Straws 75g – From the Health Food Aisle",2.95,5.9,2.95,Lean Meat & Alternatives,0.4546349048614502,vegetable
+Health Foods,311079,McCain Healthy Choice Frozen Meals 280-350g,4.5,9.5,5.0,Lean Meat & Alternatives,0.5114544034004211,meal
+Health Foods,6047509,Table of Plenty Mini Rice Cakes 84-102g Pk 6 – From the Health Food Aisle,3.5,7.0,3.5,Lean Meat & Alternatives,0.5455986857414246,rice cake
+Health Foods,972440,Team Nutrition Protein Bars 55g§,2.3,3.9,1.6,Lean Meat & Alternatives,0.45254185795783997,protein
+Health Foods,6011571,Muscle Nation Protein Daily Shake 400ml§,4.2,6.0,1.8,Lean Meat & Alternatives,0.47293052077293396,protein
+Health Foods,6041551,Muscle Nation Protein Water 300g§,24.5,35.0,10.5,Lean Meat & Alternatives,0.4984085261821747,water
+International Foods,251433,Old El Paso Premium Kits 295-505g,4.5,9.5,5.0,Dairy (Reduced Fat),0.33996516466140747,"the product is a kit or mix for mexican-style food preparation, so there isn't a clear"
+International Foods,31429,Old El Paso Standard Kits 290-520g,4.0,8.5,4.5,Lean Meat & Alternatives,0.3101140260696411,"the product is a mexican-style taco or burrito kit, but no specific main ingredient is"
+Jams & Spreads,72546,Philadelphia Original Cream Cheese Twin Block 500g – From the Fridge,9.0,19.0,10.0,Dairy (Reduced Fat),0.6032198667526245,cream cheese
+Meat,713425,D’Orsogna Tasty Sticks Mild 400g – From the Deli,10.0,12.5,2.5,Lean Meat & Alternatives,0.7091249227523804,salami
+Meat,25260,Primo Danish Salami – Sliced or Shaved – From the Deli,32.5,38.0,5.5,Lean Meat & Alternatives,0.6541910767555237,salami
+Meat,170438,Woolworths Australian Half Leg Ham,8.0,8.0,0.0,Lean Meat & Alternatives,0.5740854144096375,ham
+Meat,777390,Sunpork Half Leg Ham,12.0,12.0,0.0,Lean Meat & Alternatives,0.6951729655265808,ham
+Meat,6021348,Woolworths Australian Double Smoked Quarter Leg Ham,14.5,14.5,0.0,Lean Meat & Alternatives,0.6100377440452576,ham
+Meat,268603,Australian Fresh Whole Plain RSPCA Approved Chicken,4.5,5.5,1.0,Lean Meat & Alternatives,0.7121466994285583,chicken
+Meat,764541,Australian Pork Shoulder Boneless Roast,9.0,11.0,2.0,Lean Meat & Alternatives,0.7886109948158264,pork shoulder
+Meat,29487,Ingham’s Frozen Whole Turkey^ – From the Freezer,7.9,7.9,0.0,Lean Meat & Alternatives,0.6604558229446411,turkey
+Meat,767632,Ingham’s Turkey Easy Carve Buffe^ – From the Freezer,9.5,9.5,0.0,Lean Meat & Alternatives,0.6222758889198303,turkey
+Meat,,Woolworths Oven Roasted Turkey Cooked on the Bone,20.0,20.0,0.0,Lean Meat & Alternatives,0.796537458896637,turkey
+Meat,89785,Ingham’s Traditional Turkey Thigh Roast 1 kg – From the Freezer,13.0,13.0,0.0,Lean Meat & Alternatives,0.6885262131690979,turkey
+Meat,55321,Ingham’s Traditional Turkey Breast Roast 2 kg – From the Freezer,30.0,30.0,0.0,Lean Meat & Alternatives,0.7158467173576355,turkey
+Meat,71841,D’Orsogna Shortcut Bacon – From the Deli,15.0,21.0,6.0,Lean Meat & Alternatives,0.7214974164962769,bacon
+Meat,285094,Macro Australian Grass Fed Beef Porterhouse Steaks 400g Pk 2,18.0,22.0,4.0,Lean Meat & Alternatives,0.7222612500190735,beef
+Meat,48358,Woolworths Middle Bacon 1 kg – From the Fridge,11.5,23.2,11.7,Lean Meat & Alternatives,0.6481385827064514,bacon
+Meat,544761,Primo Sliced Meats 80-100g – From the Fridge,3.0,3.95,0.95,Lean Meat & Alternatives,0.7339840531349182,meat
+Meat,352931,Bertocchi Premium Boneless Leg Ham – Sliced or Shaved – From the Deli,29.0,35.0,6.0,Lean Meat & Alternatives,0.7143105268478394,ham
+Meat,,Australian Beef Stir Fry Bulk Pack 1 kg,18.0,18.0,0.0,Lean Meat & Alternatives,0.7811155319213867,beef
+Meat,764967,Australian Lamb Midloin Chops,24.0,33.0,9.0,Lean Meat & Alternatives,0.7632629871368408,lamb
+Meat,907241,Woolworths Marinated Kebabs Varieties with RSPCA Approved Chicken 750g Pk 12,10.0,11.5,1.5,Lean Meat & Alternatives,0.7602442502975464,chicken
+Meat,,Australian Pork Scotch Fillet Steak 600g,10.0,12.0,2.0,Lean Meat & Alternatives,0.8145506381988525,pork
+Meat,810791,Woolworths COOK Slow Cooked Pork Shoulder with Smokey BBQ Sauce 560g,12.0,15.0,3.0,Lean Meat & Alternatives,0.8066888451576233,pork shoulder
+Meat,83534,"Woolworths BBQ Marinated Beef, Lamb or Pork Steaks 270-300g",15.0,16.0,1.0,Lean Meat & Alternatives,0.7975288033485413,beef
+Meat,710953,Australian Fresh RSPCA Approved Chicken Breast Fillets – From the Deli,8.5,12.0,3.5,Lean Meat & Alternatives,0.7548618912696838,chicken
+Meat,6027943,Woolworths COOK Beef Strips Mexican 500g,10.0,13.0,3.0,Lean Meat & Alternatives,0.7637647986412048,beef
+"Papergoods, Wraps & Bags",679037,Kleenex Complete Clean Toilet Paper Pk 9,4.5,9.0,4.5,Grains (Wholegrain),0.38439688086509705,"there is no food ingredient in this product name. this is a toilet paper product, not a foo"
+"Papergoods, Wraps & Bags",369957,Multix Extra Wide Garbage Bags Roll Pk 50,4.5,9.0,4.5,Grains (Wholegrain),0.42746591567993164,"there is no food ingredient in this product. these are garbage bags, which are not a food item"
+Seafood,157052,Woolworths Australian Fresh Salmon Portions Skin On 280g,13.0,15.0,2.0,Lean Meat & Alternatives,0.6976184844970703,salmon
+Seafood,763541,Ocean Chef Atlantic Salmon Portions Skin On 1 kg – From the Seafood Freezer,24.0,29.5,5.5,Lean Meat & Alternatives,0.6822506189346313,salmon
+Seafood,178458,Sealord Hoki Fish Fillets 300g,7.0,9.0,2.0,Lean Meat & Alternatives,0.680537223815918,hoki
+Seafood,947981,Birds Eye Air Baked Fish 250-380g,10.0,22.5,12.5,Lean Meat & Alternatives,0.7014269828796387,fish
+Seafood,878479,Safcol Tuna Pouch 95g,1.35,2.7,1.35,Lean Meat & Alternatives,0.689568817615509,tuna
